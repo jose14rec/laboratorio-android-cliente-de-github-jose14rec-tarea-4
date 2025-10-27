@@ -1,3 +1,16 @@
 <resources>
-    <string name="app_name">Github Client</string>
+    <string name="app_name">GitHubClientDemo</string>
+    <string name="avatar_desc">avatar</string>
+    <string name="repo_name">Repo Name</string>
+    <string name="repo_description">Repo description</string>
+    <string name="repo_name_default">Repo Name</string>
+    <string name="repo_description_default">Repo description</string>
+    <string name="hint_project_name">Nombre del proyecto</string>
+    <string name="hint_project_desc">Descripción del proyecto</string>
+    <string name="btn_create_project">Crear Proyecto</string>
+    <string name="nombre_del_proyecto">Nombre del proyecto</string>
+    <string name="descripci_n_del_proyecto">Descripción del proyecto</string>
+    <string name="crear_proyecto">Crear Proyecto</string>
+    <string name="agregar_proyecto">Agregar Proyecto</string>
+
 </resources>
