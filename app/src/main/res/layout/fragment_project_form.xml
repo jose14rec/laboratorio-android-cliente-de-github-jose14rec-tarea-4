@@ -27,7 +27,7 @@
         app:layout_constraintTop_toBottomOf="@id/etProjectName"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintTop_margin="16dp"/>
+        android:layout_marginTop="16dp"/>
 
     <Button
         android:id="@+id/btnSubmitProject"
@@ -36,5 +36,5 @@
         android:text="@string/crear_proyecto"
         app:layout_constraintTop_toBottomOf="@id/etProjectDesc"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_margin="16dp"/>
+        android:layout_marginTop="16dp"/>
 </androidx.constraintlayout.widget.ConstraintLayout>
